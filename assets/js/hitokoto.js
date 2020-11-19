@@ -9,7 +9,7 @@ $.getJSON('https://v1.hitokoto.cn', function (data) {
     );
 }).fail(function () {
     $('#hitokoto').attr({
-        'href': 'https://www.y-english.org/',
+        'href': 'https://www.lwdedu.ml/',
         'target': '_blank'
-    }).html('<i class="lightbulb icon"></i>不背单词的GRE工程化解决方案<div class="detail">云英语</div>');
+    }).html('<i class="lightbulb icon"></i>API请求错误<div class="detail">API请求错误</div>');
 });

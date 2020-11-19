@@ -23,7 +23,7 @@
     show: true
 
 - id: dogedoge
-  name: 'Doge 搜索'
+  name: Doge搜索
   url: https://www.dogedoge.com/results?q={query}
   shortcut:
     icon: dog teal inverted
