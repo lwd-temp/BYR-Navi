@@ -57,7 +57,7 @@
       url: http://scp-wiki-cn.wikidot.com/
 
 - categories:
- - name: 购物
+  - name: 购物
     links:
     - name: 淘宝
       style: orange
@@ -459,6 +459,11 @@
       icon: python
       style: basic
       url: https://www.python.org/
+
+    - name: 'Python Docs'
+      icon: python
+      style: basic
+      url: https://docs.python.org/3/
 
     - name: PythonAnywhere
       style: basic

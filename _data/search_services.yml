@@ -22,6 +22,14 @@
     style: black
     show: true
 
+- id: dogedoge
+  name: 'Doge 搜索'
+  url: https://www.dogedoge.com/results?q={query}
+  shortcut:
+    icon: dog teal inverted
+    style: black
+    show: true
+
 - id: baidumap
   name: 百度地图
   url: https://api.map.baidu.com/geocoder?address={query}&output=html
