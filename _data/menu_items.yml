@@ -8,12 +8,12 @@
   url: /customize/
   active_key: customize
 
-- name: 访客分析
-  icon: chart bar
-  url: /analytics/
-  active_key: analytics
+# - name: 本克隆站暂时不能用的访客分析
+#   icon: chart bar
+#   url: /analytics/
+#   active_key: analytics
 
-- name: 捐赠
+- name: 捐赠原作者
   icon: donate
   url: /donate/
   active_key: donate

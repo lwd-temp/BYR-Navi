@@ -1,20 +1,20 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: lwd-temp/BYR-Navi
+repository_url: https://github.com/lwd-temp/BYR-Navi
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
-alias_en: BYR-Navi
-alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
+title: 基于BYR-Navi的自用导航页
+alias_en: A Navigation Website Based on BYR-Navi
+alias_cn: 基于北邮人导航的自用导航页
+description: A Navigation Website Based on BYR-Navi
+keywords: 基于北邮人导航的自用导航页, BYR-Navi, BYR, BUPT, Navi, Navigation
+url: https://lwd-temp.github.io/BYR-Navi
 established_at: "2016-10-01T00:00+08:00"
 
-author: iROCKBUNNY
+author: 原作iROCKBUNNY
 author_url: https://irockbunny.com
-organization: TEELAB
+organization: 原作TEELAB
 organization_url: https://teelab.net
 contact: contact[at]irockbunny[dot]com
 

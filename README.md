@@ -4,6 +4,13 @@
 [![Last Commit](https://img.shields.io/github/last-commit/BYR-Navi/BYR-Navi.svg)][commit]
 [![Donate](https://img.shields.io/badge/Donate-Coffee-A5673F.svg)][donate]
 
+# 关于此Repo
+基于BYR-Navi的自用导航页
+
+向原作者表示崇高的敬意和诚挚的感谢
+
+
+
 # BYR-Navi
 A Light-Weight and Configurable Navigation [Website][website] Framework (for BYR)
 
