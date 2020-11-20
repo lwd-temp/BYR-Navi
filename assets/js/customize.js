@@ -3,7 +3,7 @@
 function setJSONCookie(name, value) {
     Cookies.set(name, JSON.stringify(value), {
         expires: 365,
-        domain: '.byr-navi.com',
+        domain: 'navi.lwdedu.ml',
         secure: true
     });
 };
