@@ -1,9 +1,9 @@
 google:
-  id: UA-100531691-1
+  id: false
 
 matomo:
-  url: https://vps.irockbunny.com/analytics/
+  url: http://localhost:65535/
   domains:
-  - "*.byr-navi.com"
+  - "*.lwdedu.ml"
   site_id: 1
-  token: b20d2b5002a1241da41853f33eccccdd
+  token: aabbccddeeffgg

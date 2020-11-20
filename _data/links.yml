@@ -147,7 +147,7 @@
       url: http://www.dianping.com/
 
     - name: Outlook
-      icon: envelope blue
+      icon: microsoft blue
       style: basic
       url: https://outlook.live.com/
 
@@ -210,14 +210,17 @@
       url: https://www.gaoding.com/
 
     - name: 'Oriole-Proxy'
+      icon: globe orange
       style: basic
       url: https://52proxy.xyz/
 
     - name: '向日葵-8号即時網頁'
+      icon: globe
       style: basic
       url: https://himawari8.nict.go.jp/zh/himawari8-image.htm
 
     - name: 'ZygoteBody'
+      icon: male
       style: basic
       url: https://www.zygotebody.com/
 
@@ -445,24 +448,32 @@
     links:
     - name: Minecraft
       icon: cube green
-      style: basic
+      style: orange
       url: https://www.minecraft.net/
 
     - name: Steam
       icon: steam white
-      style: basic
+      style: black
       url: https://store.steampowered.com/
+
+    - name: Epic
+      style: basic
+      url: https://www.epicgames.com/
+
+    - name: Ubisoft
+      style: basic
+      url: https://store.ubi.com/
 
   - name: Python
     links:
     - name: Python
       icon: python
-      style: basic
+      style: blue
       url: https://www.python.org/
 
     - name: 'Python Docs'
       icon: python
-      style: basic
+      style: orange
       url: https://docs.python.org/3/
 
     - name: PythonAnywhere
@@ -472,13 +483,13 @@
   - name: 党政机关
     links:
     - name: 中国政府网
-      style: basic
+      style: red
       url: http://www.gov.cn/
 
     - name: 人民网
-      style: basic
+      style: red
       url: http://people.cn/
 
     - name: 中青在线
-      style: basic
+      style: red
       url: http://www.cyol.com/
