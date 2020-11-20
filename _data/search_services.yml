@@ -26,7 +26,7 @@
   name: Doge搜索
   url: https://www.dogedoge.com/results?q={query}
   shortcut:
-    icon: dog teal inverted
+    icon: dog yellow teal inverted
     style: black
     show: true
 

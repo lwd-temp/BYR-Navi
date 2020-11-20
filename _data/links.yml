@@ -42,6 +42,10 @@
       style: basic
       url: https://g.lwdedu.ml/
 
+    - name: '基于BYR-Navi的自用导航页'
+      style: basic
+      url: https://navi.lwdedu.ml/
+
   - name: 友情链接
     links:
     - name: 'EXPLORER_探索者'
@@ -55,6 +59,10 @@
     - name: SCP基金会中国分部
       style: basic
       url: http://scp-wiki-cn.wikidot.com/
+
+    - name: ZWT
+      style: basic
+      url: http://iqingyun.cyol.com/visp/38/479096.html
 
 - categories:
   - name: 购物
@@ -224,6 +232,11 @@
       style: basic
       url: https://www.zygotebody.com/
 
+    - name: '胶囊主机'
+      icon: server
+      style: basic
+      url: https://api.funs.ml/docker/
+
   - name: 社交
     links:
     - name: 微博
@@ -281,7 +294,7 @@
       style: basic
       url: https://www.linkedin.com/
 
-    - name: FreeBuf网络安全行业门户
+    - name: FreeBuf
       style: basic
       url: https://www.freebuf.com/
 
@@ -333,9 +346,9 @@
       style: basic
       url: https://cn.udacity.com/
 
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
+    # - name: 云英语
+    #   style: black
+    #   url: https://www.y-english.org/
 
   - name: 娱乐
     links:
@@ -429,18 +442,22 @@
   - name: 'Windows'
     links:
     - name: 微PE工具箱
+      icon: disk blue
       style: basic
       url: http://www.wepe.com.cn/
 
     - name: Edgeless
+      icon: microsoft black
       style: basic
       url: https://home.edgeless.top/
 
     - name: MSDN, 我告诉你
+      icon: microsoft blue
       style: basic
       url: https://msdn.itellyou.cn/
 
     - name: NEXT, ITELLYOU
+      icon: download blue
       style: basic
       url: https://next.itellyou.cn/
 
@@ -448,7 +465,7 @@
     links:
     - name: Minecraft
       icon: cube green
-      style: orange
+      style: yellow
       url: https://www.minecraft.net/
 
     - name: Steam
