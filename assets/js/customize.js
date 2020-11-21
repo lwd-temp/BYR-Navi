@@ -84,7 +84,7 @@ $('.ui.button.shortcut-toggle-show').each(function () {
 // reset button
 $('#reset-cookie').click(function () {
     Cookies.remove('byr_navi_search_shortcuts', {
-        domain: '.byr-navi.com'
+        domain: 'navi.lwdedu.ml'
     });
     location.reload(true);
 });
