@@ -56,10 +56,6 @@
       style: basic
       url: https://byr-navi.com/
 
-    - name: SCP基金会中国分部
-      style: basic
-      url: http://scp-wiki-cn.wikidot.com/
-
     - name: ZWT
       style: basic
       url: http://iqingyun.cyol.com/visp/38/479096.html
@@ -227,11 +223,6 @@
       style: basic
       url: https://himawari8.nict.go.jp/zh/himawari8-image.htm
 
-    - name: 'ZygoteBody'
-      icon: male
-      style: basic
-      url: https://www.zygotebody.com/
-
     - name: '胶囊主机'
       icon: server
       style: basic
@@ -298,6 +289,10 @@
       style: basic
       url: https://www.freebuf.com/
 
+    - name: 'Pony Town'
+      style: basic
+      url: https://pony.town/
+
   - name: 学习
     links:
     - name: Coursera
@@ -349,6 +344,11 @@
     # - name: 云英语
     #   style: black
     #   url: https://www.y-english.org/
+
+    - name: 'ZygoteBody'
+      icon: male
+      style: basic
+      url: https://www.zygotebody.com/
 
   - name: 娱乐
     links:
@@ -481,6 +481,14 @@
       style: basic
       url: https://store.ubi.com/
 
+    - name: 英雄联盟
+      style: basic
+      url: https://lol.qq.com/main.shtml
+
+    - name: League of Legends
+      style: basic
+      url: https://na.leagueoflegends.com/
+
   - name: Python
     links:
     - name: Python
@@ -510,3 +518,31 @@
     - name: 中青在线
       style: red
       url: http://www.cyol.com/
+
+    - name: 央视网
+      style: red
+      url: https://www.cctv.com/
+
+  - name: SCP基金会
+    links:
+    - name: 'SCP Foundation'
+      style: basic
+      url: http://www.scpwiki.com/
+
+    - name: SCP基金会中国分部
+      style: basic
+      url: http://scp-wiki-cn.wikidot.com/
+
+    - name: 'SCP-INT'
+      style: basic
+      url: http://scp-int.wikidot.com/
+
+  - name: 'TBS & X5 Debug'
+    links:
+    - name: TBS
+      style: basic
+      url: http://debugtbs.qq.com
+
+    - name: X5
+      style: basic
+      url: http://debugx5.qq.com
