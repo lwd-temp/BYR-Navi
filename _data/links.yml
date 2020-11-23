@@ -350,6 +350,10 @@
       style: basic
       url: https://www.zygotebody.com/
 
+    - name: 'NASA'
+      style: basic
+      url: https://www.nasa.gov/
+
   - name: 娱乐
     links:
     - name: 优酷
@@ -546,3 +550,23 @@
     - name: X5
       style: basic
       url: http://debugx5.qq.com
+
+- categories:
+  - name: 'GNU/Linux'
+    links:
+    - name: 'The Linux Kernel Archives'
+      icon: linux
+      style: basic
+      url: https://www.kernel.org/
+
+    - name: GNU
+      style: basic
+      url: https://www.gnu.org/
+
+    - name: Ubuntu
+      style: basic
+      url: https://ubuntu.com/
+
+    - name: Manjaro
+      style: basic
+      url: https://manjaro.org/

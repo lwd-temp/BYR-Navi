@@ -13,7 +13,7 @@
 #   url: /analytics/
 #   active_key: analytics
 
-# - name: 捐赠原作者
-#   icon: donate
-#   url: /donate/
-#   active_key: donate
+- name: 捐赠原作者
+  icon: donate
+  url: /donate/
+  active_key: donate
