@@ -56,10 +56,6 @@
       style: basic
       url: https://byr-navi.com/
 
-    - name: ZWT
-      style: basic
-      url: http://iqingyun.cyol.com/visp/38/479096.html
-
 - categories:
   - name: 购物
     links:
@@ -527,6 +523,10 @@
       style: red
       url: https://www.cctv.com/
 
+    - name: ZWT
+      style: basic
+      url: http://iqingyun.cyol.com/visp/38/479096.html
+
   - name: SCP基金会
     links:
     - name: 'SCP Foundation'
@@ -540,16 +540,6 @@
     - name: 'SCP-INT'
       style: basic
       url: http://scp-int.wikidot.com/
-
-  - name: 'TBS & X5 Debug'
-    links:
-    - name: TBS
-      style: basic
-      url: http://debugtbs.qq.com
-
-    - name: X5
-      style: basic
-      url: http://debugx5.qq.com
 
 - categories:
   - name: 'GNU/Linux'
@@ -570,3 +560,37 @@
     - name: Manjaro
       style: basic
       url: https://manjaro.org/
+
+  - name: 'TBS & X5 Debug'
+    links:
+    - name: TBS
+      style: basic
+      url: http://debugtbs.qq.com
+
+    - name: X5
+      style: basic
+      url: http://debugx5.qq.com
+
+  - name: '联合国'
+    links:
+    - name: 'Welcome to the United Nations'
+      style: basic
+      url: https://www.un.org/
+
+    - name: 联合国
+      style: basic
+      url: https://www.un.org/zh
+
+  - name: '信息安全'
+    links:
+    - name: 'VirusTotal'
+      style: basic
+      url: https://www.virustotal.com/
+
+    - name: 火绒安全
+      style: basic
+      url: https://www.huorong.cn/
+
+    - name: 卡巴斯基实验室
+      style: basic
+      url: https://www.kaspersky.com/?ignoreredirects=true
