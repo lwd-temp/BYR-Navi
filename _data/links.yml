@@ -489,6 +489,10 @@
       style: basic
       url: https://na.leagueoflegends.com/
 
+    - name: 'Agar.io'
+      style: basic
+      url: https://agar.io/
+
   - name: Python
     links:
     - name: Python
@@ -554,6 +558,7 @@
       url: https://www.gnu.org/
 
     - name: Ubuntu
+      icon: ubuntu orange
       style: basic
       url: https://ubuntu.com/
 
@@ -581,7 +586,7 @@
       style: basic
       url: https://www.un.org/zh
 
-  - name: '信息安全'
+  - name: '反病毒'
     links:
     - name: 'VirusTotal'
       style: basic
