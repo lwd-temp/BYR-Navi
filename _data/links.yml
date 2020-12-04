@@ -56,7 +56,7 @@
       style: basic
       url: https://byr-navi.com/
 
-    - name: ZWT
+    - name: 琬桐
       style: basic
       url: http://iqingyun.cyol.com/visp/38/479096.html
 
@@ -442,6 +442,18 @@
       style: blue
       url: https://ddrk.me/
 
+    - name: xkcd
+      style: basic
+      url: https://xkcd.com/
+
+    - name: xkcd中文翻譯
+      style: basic
+      url: https://xkcd.tw/
+
+    - name: explain xkcd
+      style: basic
+      url: https://explainxkcd.com/wiki/index.php/Main_Page
+
 - categories:
   - name: 'Windows'
     links:
@@ -493,9 +505,9 @@
       style: basic
       url: https://na.leagueoflegends.com/
 
-    - name: 'Agar.io'
-      style: basic
-      url: https://agar.io/
+    # - name: 'Agar.io'
+    #   style: basic
+    #   url: https://agar.io/
 
     - name: Unity
       icon: unity white
@@ -505,6 +517,10 @@
     - name: 虚幻引擎
       style: basic
       url: https://www.unrealengine.com/
+
+    - name: noclip
+      style: basic
+      url: https://noclip.website/
 
   - name: Python
     links:
@@ -608,3 +624,21 @@
     - name: 卡巴斯基实验室
       style: basic
       url: https://www.kaspersky.com/?ignoreredirects=true
+
+  - name: Android
+    links:
+    - name: Android
+      style: basic
+      url: https://www.android.com/
+
+    - name: 'Android Developer'
+      style: basic
+      url: https://developer.android.com/
+
+    - name: 酷安网
+      style: basic
+      url: https://www.coolapk.com/
+
+    - name: Android开发者
+      style: basic
+      url: https://developer.android.google.cn/
