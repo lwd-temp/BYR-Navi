@@ -46,6 +46,10 @@
       style: basic
       url: https://navi.lwdedu.ml/
 
+    - name: 'xxx'
+      style: basic
+      url: https://lwd-temp.github.io/xxx
+
   - name: 友情链接
     links:
     - name: 'EXPLORER_探索者'
@@ -642,3 +646,21 @@
     - name: Android开发者
       style: basic
       url: https://developer.android.google.cn/
+
+  - name: 远程桌面
+    links:
+    - name: AnyDesk
+      style: basic
+      url: https://anydesk.com/
+
+    - name: TeamViewer
+      style: basic
+      url: https://www.teamviewer.com/
+
+    - name: ToDesk
+      style: basic
+      url: https://www.todesk.com/
+
+    - name: 向日葵
+      style: basic
+      url: https://sunlogin.oray.com/
