@@ -32,10 +32,10 @@
       style: basic
       url: https://hello.lwd-temp.workers.dev/
 
-    - name: 不稳定的jsproxy服务
+    - name: siteproxy服务
       icon: globe
       style: basic
-      url: https://jsproxy.lwd-temp.workers.dev/
+      url: https://summer-glade-43ad.lwd-temp.workers.dev/
 
     - name: 不能用的Google镜像
       icon: google blue
