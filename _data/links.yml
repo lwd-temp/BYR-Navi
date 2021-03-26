@@ -4,7 +4,7 @@
     - name: 主站
       icon: home
       style: basic
-      url: https://www.lwdedu.ml/
+      url: https://www.lwd-temp.top/
 
     - name: 主站GHPages
       icon: github
@@ -13,7 +13,7 @@
 
     - name: 主站域名
       style: basic
-      url: https://www.lwdedu.ml/
+      url: https://www.lwd-temp.top/
 
     - name: 'Our Complex Wiki'
       icon: edit
@@ -25,7 +25,7 @@
     - name: 不稳定的维基百科镜像
       icon: wikipedia w black
       style: basic
-      url: https://wp.lwdedu.ml/
+      url: https://wp.lwd-temp.top/
 
     - name: GET请求测试
       icon: link
@@ -40,11 +40,11 @@
     - name: 不能用的Google镜像
       icon: google blue
       style: basic
-      url: https://g.lwdedu.ml/
+      url: https://g.lwd-temp.top/
 
     - name: '基于BYR-Navi的自用导航页'
       style: basic
-      url: https://navi.lwdedu.ml/
+      url: https://navi.lwd-temp.top/
 
     - name: 'xxx'
       style: basic
