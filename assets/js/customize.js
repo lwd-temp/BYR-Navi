@@ -3,7 +3,7 @@
 function setJSONCookie(name, value) {
     Cookies.set(name, JSON.stringify(value), {
         expires: 365,
-        domain: 'navi.lwdedu.ml',
+        domain: 'navi.lwd-temp.top',
         secure: true
     });
 };
@@ -84,7 +84,7 @@ $('.ui.button.shortcut-toggle-show').each(function () {
 // reset button
 $('#reset-cookie').click(function () {
     Cookies.remove('byr_navi_search_shortcuts', {
-        domain: 'navi.lwdedu.ml'
+        domain: 'navi.lwd-temp.top'
     });
     location.reload(true);
 });
